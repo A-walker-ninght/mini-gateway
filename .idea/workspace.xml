@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8d77678-651e-4a2d-8f7c-86d6090f6845" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../go1.19/go1.19" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3e6b5c05-5f80-46d5-b1c0-81f563ccd766" />
+        <option name="url" value="https://github.com/A-walker-ninght/mini-gateway.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NbKcFGfk5t1cJ2ulLG5v03IURu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "D:/goCode/src/mini-getway",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="Go 构建.go build github.com/e421083458/gateway_demo/demo/proxy/reverse_proxy_simple">
+    <configuration name="go build github.com/A-walker-ninght/mini-getway" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="mini-getway" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/A-walker-ninght/mini-getway" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/http_client.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/e421083458/gateway_demo/demo/proxy/reverse_proxy_simple" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="mini-getway" />
+      <working_directory value="$PROJECT_DIR$/gateway_demo" />
+      <kind value="PACKAGE" />
+      <package value="github.com/e421083458/gateway_demo/demo/proxy/reverse_proxy_simple" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/gateway_demo/demo/proxy/reverse_proxy_simple/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/A-walker-ninght/mini-getway 中的 TestNewTimerCenter" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="mini-getway" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/A-walker-ninght/mini-getway" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNewTimerCenter\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="XMakeRunConfiguration" factoryName="Start and Debug" temporary="true">
+      <option name="runTarget" value="default" />
+      <option name="runArguments" value="" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build github.com/e421083458/gateway_demo/demo/proxy/reverse_proxy_simple" />
+        <item itemvalue="Go 构建.go build github.com/A-walker-ninght/mini-getway" />
+        <item itemvalue="Go 测试.github.com/A-walker-ninght/mini-getway 中的 TestNewTimerCenter" />
+        <item itemvalue="XMake.Unnamed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
